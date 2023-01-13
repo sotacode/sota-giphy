@@ -2,6 +2,7 @@
 From begin, sorry for my english, i'm practice the language.
 
 This is an application with calls to GIPHY's API. where gifs are deployed depending on what we write in the input.
+You can access to page using the next link: [https://sotagiphy.netlify.app/](https://sotagiphy.netlify.app/)
 
 ## Code Explanation
 First we begin from the components of page, and then i explain others decision of the code.
